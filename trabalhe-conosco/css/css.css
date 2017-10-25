@@ -1,0 +1,54 @@
+.menu-container{
+    padding: 0px 0px 0px 20px;
+}
+
+.page-title{
+    font-size: 1.3rem;
+}
+
+.bottom-margin-text-area{
+    margin-bottom: 60px !important;
+}
+
+.outra-area-input{
+    display: none;
+}
+
+.tit-form-contact{
+    font-size: 1.5rem;
+}
+
+nav{
+    height: 110px;
+    line-height: 110px;
+}
+
+nav > .nav-wrapper > .menu > li > .btn-menu > i{
+    margin-top:25px;
+}
+
+.parte2{
+    display: none;
+}
+
+.row-breadcrumb > .crumbs{
+    cursor:pointer;
+}
+
+.row-breadcrumb, .crumbs{
+    height:50px;
+    line-height: 50px;
+    font-size: 1.3rem;
+}
+
+.crumbs-icon{
+    vertical-align: -5px;
+}
+
+.row-breadcrumb{
+    padding:0px 13px;
+}
+
+.anterior, .anterior + span{
+    cursor: pointer;
+}
